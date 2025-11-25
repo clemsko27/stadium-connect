@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Copy of Stadium Companion",
+  "description": "A premium, AI-powered stadium assistant providing live views, interactive maps, stats, and services.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
